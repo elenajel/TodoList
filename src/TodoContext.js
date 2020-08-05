@@ -7,22 +7,22 @@ const initialTodos = [
     done: true,
   },
   {
-    id: 1,
+    id: 2,
     text: "1일 1프로덕트",
     done: false,
   },
   {
-    id: 1,
+    id: 3,
     text: "프로젝트 블로깅",
     done: true,
   },
   {
-    id: 1,
+    id: 4,
     text: "면접 준비 하기",
-    done: true,
+    done: false,
   },
   {
-    id: 1,
+    id: 5,
     text: "독서",
     done: true,
   },
